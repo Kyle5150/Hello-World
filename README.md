@@ -10,7 +10,6 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Git](https://git-scm.com/download)
 * [GitHub](https://github.com/)
